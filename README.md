@@ -1,2 +1,2 @@
 # MSc.-Projects
-Compilation all my MSc. Data Analytics university projects.
+Compilation of all my MSc. Data Analytics university projects.
